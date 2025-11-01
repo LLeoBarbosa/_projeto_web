@@ -39,3 +39,4 @@ D:\_projetos_dot_net\_vscode\_projeto_web\obj\Debug\netcoreapp3.1\_projeto_web.p
 D:\_projetos_dot_net\_vscode\_projeto_web\obj\Debug\netcoreapp3.1\_projeto_web.genruntimeconfig.cache
 D:\_projetos_dot_net\_vscode\_projeto_web\obj\Debug\netcoreapp3.1\_projeto.28942CF3.Up2Date
 D:\_projetos_dot_net\_vscode\_projeto_web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\_projetos_dot_net\_vscode\_projeto_web\obj\Debug\netcoreapp3.1\_projeto_web.sourcelink.json
